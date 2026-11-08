@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/z3wu6h3miagrpo08e20m4wja)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A mini Keyboard with a few input buttons so that I can enjoy reading/watching even more! I aim to use several buttons and a rotary resistor so that I can change the volume. These websites seem to have the code to be able to do this --> https://docs.arduino.cc/tutorials/micro/keyboard-press/ https://www.instructables.com/Arduino-Based-Windows-PC-Volume-Remote-Control/ I think I'll use a raspberry pico pi and a micro-USB connector to connect it to the computer.
+> A mini Keyboard with a few input buttons so that I can enjoy reading/watching even more! I aim to use several buttons and a rotary resistor so that I can change the volume. Using a USB connector between the mini keyboard and xiao, they will be able to communicate with one another.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
