@@ -7,7 +7,7 @@ I used Kicad's schematic and PCB editors, as well as arduino ide for the code.
 
 front
 
-<img width="462" height="444" alt="image" src="https://github.com/user-attachments/assets/6472818e-29c9-4266-b197-9a18551cce69" />
+<img width="503" height="481" alt="image" src="https://github.com/user-attachments/assets/ee61822d-4813-4a49-9033-a43a5e90ff05" />
 
 back
 
@@ -23,7 +23,8 @@ A PCB is a board where all the components are later soldered (connected) onto. I
 
 PCB 
 
-<img width="492" height="469" alt="image" src="https://github.com/user-attachments/assets/e9a7f0ad-389a-47f0-a77b-f30d3cca2c26" />
+<img width="497" height="479" alt="image" src="https://github.com/user-attachments/assets/b1348bfc-6aeb-4a45-9954-cbf91236b595" />
+
 
 Using Arduino ide and a built in library called keyboard, I wrote the code so that when certain button is pressed, a certain "input key" to then sent to the computer.
 Sneak peek of code (You can see the entire thing in Keyboard.ino)
